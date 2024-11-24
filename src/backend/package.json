@@ -47,7 +47,7 @@
     "@loopback/boot": "^3.0.1",
     "@loopback/core": "^2.10.1",
     "@loopback/repository": "^3.0.1",
-    "@loopback/rest": "^9.3.0",
+    "@loopback/rest": "^14.0.8",
     "@loopback/rest-explorer": "^3.0.1",
     "@loopback/service-proxy": "^3.0.1",
     "bcryptjs": "^2.4.3",
