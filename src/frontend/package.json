@@ -23,7 +23,7 @@
     "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "flush-promises": "^1.0.2",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
     "vuejs-datepicker": "^1.6.2",
